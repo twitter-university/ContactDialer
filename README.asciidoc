@@ -1,0 +1,13 @@
+= About Contact Dialer
+
+This project demonstrates how to access data from Android's Contacts Content Provider.
+
+This code was developed to support Marakana's Android Training courses.
+
+For more info, see http://marakana.com/training/android/
+
+== Legal
+
+Please see ++NOTICE++ file in this directory for copyright, license terms, and legal disclaimers.
+
+Copyright © 2013 Marakana Inc.

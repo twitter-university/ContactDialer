@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Contact Dialer</string>
+    <string name="action_settings">Settings</string>
+    <string name="no_phone_numbers_available">No phone numbers available</string>
+    <string name="no_contacts">No contacts available</string>
+
+</resources>
